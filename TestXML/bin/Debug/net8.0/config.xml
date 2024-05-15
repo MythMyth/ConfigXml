@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <ud1>XXXX</ud1>
+  <ud2>XXXX</ud2>
+  <ud3>XXXX</ud3>
+  <ud4>XXXX</ud4>
+  <cmdspd>10</cmdspd>
+  <dataspd>10</dataspd>
+  <compress>XZ</compress>
+  <format>RGB</format>
+  <x>0</x>
+  <y>0</y>
+  <name>image</name>
+  <index>1</index>
+  <list />
+</body>

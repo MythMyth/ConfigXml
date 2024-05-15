@@ -1,0 +1,14 @@
+C:\Users\Myth\source\repos\TestXML\TestXML\bin\Debug\net8.0\TestXML.exe
+C:\Users\Myth\source\repos\TestXML\TestXML\bin\Debug\net8.0\TestXML.deps.json
+C:\Users\Myth\source\repos\TestXML\TestXML\bin\Debug\net8.0\TestXML.runtimeconfig.json
+C:\Users\Myth\source\repos\TestXML\TestXML\bin\Debug\net8.0\TestXML.dll
+C:\Users\Myth\source\repos\TestXML\TestXML\bin\Debug\net8.0\TestXML.pdb
+C:\Users\Myth\source\repos\TestXML\TestXML\obj\Debug\net8.0\TestXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Myth\source\repos\TestXML\TestXML\obj\Debug\net8.0\TestXML.AssemblyInfoInputs.cache
+C:\Users\Myth\source\repos\TestXML\TestXML\obj\Debug\net8.0\TestXML.AssemblyInfo.cs
+C:\Users\Myth\source\repos\TestXML\TestXML\obj\Debug\net8.0\TestXML.csproj.CoreCompileInputs.cache
+C:\Users\Myth\source\repos\TestXML\TestXML\obj\Debug\net8.0\TestXML.dll
+C:\Users\Myth\source\repos\TestXML\TestXML\obj\Debug\net8.0\refint\TestXML.dll
+C:\Users\Myth\source\repos\TestXML\TestXML\obj\Debug\net8.0\TestXML.pdb
+C:\Users\Myth\source\repos\TestXML\TestXML\obj\Debug\net8.0\TestXML.genruntimeconfig.cache
+C:\Users\Myth\source\repos\TestXML\TestXML\obj\Debug\net8.0\ref\TestXML.dll
